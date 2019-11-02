@@ -15,7 +15,7 @@
     "lodash": "^2.4.1",
     "method-override": "^2.3.0",
     "pg": "^3.6.1",
-    "sequelize": "^2.0.0-rc2",
+    "sequelize": "^5.21.2",
     "sequelize-cli": "^0.3.3"
   }
 }
